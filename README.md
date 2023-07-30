@@ -25,4 +25,3 @@ Apesar de fazer elétrica, minhas habilidades e conhecimentos técnicos são vol
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caloka&theme=transparent&bg_color=000&border_color=c35124&show_icons=true&icon_color=c35124&title_color=c35124&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caloka&bg_color=000&border_color=c35124&title_color=c35124&text_color=FFF)
-
