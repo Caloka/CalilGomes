@@ -10,7 +10,7 @@ Apesar de fazer elétrica, minhas habilidades e conhecimentos técnicos são vol
 [![Kaggle](https://img.shields.io/badge/-Kaggle-000?style=for-the-badge&logo=Kaggle&logoColor=30A3DC)](https://www.kaggle.com/calilcavalcantemuniz)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
-### Skills
+### Skills:
 ![PYTHON](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=30A3DC)
 
 ![POWERSHELL](https://img.shields.io/badge/-PowerShell-000?style=for-the-badge&logo=POWERSHELL&logoColor=30A3DC)
