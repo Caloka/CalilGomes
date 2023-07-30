@@ -9,16 +9,26 @@ Apesar de fazer elétrica, minhas habilidades e conhecimentos técnicos são vol
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/calil-cavalcante-ba0872182/)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-000?style=for-the-badge&logo=Kaggle&logoColor=30A3DC)](https://www.kaggle.com/calilcavalcantemuniz)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+
 ### Skills
 ![PYTHON](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=30A3DC)
+
 ![POWERSHELL](https://img.shields.io/badge/-PowerShell-000?style=for-the-badge&logo=POWERSHELL&logoColor=30A3DC)
+
 ![MySQL](https://img.shields.io/badge/-Mysql-000?style=for-the-badge&logo=MySQL&logoColor=30A3DC)
+
 ![JAVA](https://img.shields.io/badge/-java-000?style=for-the-badge&logo=JAVA&logoColor=30A3DC)
+
 ![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=c%20sharp&logoColor=30A3DC)
+
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+
 ### GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caloka&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Caloka&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
