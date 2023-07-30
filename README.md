@@ -12,19 +12,12 @@ Apesar de fazer elétrica, minhas habilidades e conhecimentos técnicos são vol
 
 ### Skills:
 ![PYTHON](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=30A3DC)
-
 ![POWERSHELL](https://img.shields.io/badge/-PowerShell-000?style=for-the-badge&logo=POWERSHELL&logoColor=30A3DC)
-
 ![MySQL](https://img.shields.io/badge/-Mysql-000?style=for-the-badge&logo=MySQL&logoColor=30A3DC)
-
 ![JAVA](https://img.shields.io/badge/-java-000?style=for-the-badge&logo=JAVA&logoColor=30A3DC)
-
 ![C#](https://img.shields.io/badge/-C%23-000?style=for-the-badge&logo=c%20sharp&logoColor=30A3DC)
-
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
-
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
-
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 
 ### GitHub Stats
