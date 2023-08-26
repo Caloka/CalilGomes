@@ -1,5 +1,5 @@
 # Calil Gomes
-Sou estudante de Engenharia Eletrotécnica na UPE e atualmente estagiário na Neoenergia Pernambuco no setor de Incorporação da Receita na Neoenergia.Me interesso bastante pela parte científica do negócio, que me impulsiona a buscar soluções para resolver problemas de escalas macro e micro presentes no dia a dia.
+Sou estudante de Engenharia Eletrotécnica na UPE e atualmente estagiário na Neoenergia Pernambuco no setor de Incorporação da Receita na Neoenergia. Me interesso bastante pela parte científica do negócio, que me impulsiona a buscar soluções para resolver problemas de escalas macro e micro presentes no dia a dia.
 Isso me faz estar sempre estudando novas tecnologias e novos projetos científicos com o intuito de buscar a melhor forma de agregar ao negócio.
 Atuo na área de RPA e Ciência de Dados desde que entrei na Neonergia, mas já havia tido bastante contato com dados desde que fui Pesquisador pela UPE.
 Tento implementar programação dentro da área da elétrica para juntar o conhecimento técnico das duas áreas para intensificar e contribuir para o contexto de evolução tecnológico do Setor Elétrico.
