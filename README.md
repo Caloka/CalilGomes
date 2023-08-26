@@ -1,7 +1,8 @@
 # Calil Gomes
-Sou estudante de Engenharia Elétrica na UPE e atualmente estagiário na Neoenergia Pernambuco.
-
-Apesar de fazer elétrica, minhas habilidades e conhecimentos técnicos são voltados para área de Desenvolvedor RPA🤖 e Ciência de Dados📊. Busco aprofundar meus conhecimentos nas áreas de Machine Learning e aprender mais sobre Desenvolvimento Web na área de Back End.
+Sou estudante de Engenharia Eletrotécnica na UPE e atualmente estagiário na Neoenergia Pernambuco no setor de Incorporação da Receita na Neoenergia.Me interesso bastante pela parte científica do negócio, que me impulsiona a buscar soluções para resolver problemas de escalas macro e micro presentes no dia a dia.
+Isso me faz estar sempre estudando novas tecnologias e novos projetos científicos com o intuito de buscar a melhor forma de agregar ao negócio.
+Atuo na área de RPA e Ciência de Dados desde que entrei na Neonergia, mas já havia tido bastante contato com dados desde que fui Pesquisador pela UPE.
+Tento implementar programação dentro da área da elétrica para juntar o conhecimento técnico das duas áreas para intensificar e contribuir para o contexto de evolução tecnológico do Setor Elétrico. ![Uploading image.png…]()
 
 ### Conecte-se comigo:
 [![Perfil DIO](https://img.shields.io/badge/-Digital%20Innovation%20One-000?style=for-the-badge&logo=DIO&logoColor=30A3DC)](https://web.dio.me/users/calilcgomes/)
